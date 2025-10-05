@@ -1,6 +1,6 @@
 package Day_02_Java_basics;
 
-public class Lab002_Print_Println {
+public class Lab003_Print_Println {
     static void main(String[] args) {
 
         System.out.print("Kumar");

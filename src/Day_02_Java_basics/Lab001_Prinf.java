@@ -7,8 +7,12 @@ public class Lab001_Prinf {
     static void main(String[] args) {
         int number =5;
 
-            // %d is user to decimal integer
-            // %n is used to add new line
+        // %d is user to decimal integer
+        // %s is user to String type
+        // %c is user to char type
+        // %d is user to decimal integer
+        // %d is user to decimal integer
+        // %n is used to add new line
 
         System.out.printf("%d*1=%d%n", number, number * 1);
         System.out.printf("%d*2=%d%n", number, number * 2);
@@ -20,6 +24,8 @@ public class Lab001_Prinf {
         System.out.printf("%d*8=%d%n", number, number * 8);
         System.out.printf("%d*9=%d%n", number, number * 9);
         System.out.printf("%d*10=%d%n", number, number * 10);
+
+        System.out.printf("All_type_of_%s%n = %s =%f =%c","o/p", "Kumar",74.75,'A' );
 
 
 
