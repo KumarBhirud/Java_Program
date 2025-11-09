@@ -2,7 +2,7 @@ package Ex_07_11_Oct_Pattern;
 
 public class Pattern_006_Right_hand_side_of_diamond {
     static void main(String[] args) {
-        pattern02(3);
+        pattern02(5);
         pattern03(5);
         pattern04(5);
         pattern06(5);
@@ -23,7 +23,6 @@ public class Pattern_006_Right_hand_side_of_diamond {
             System.out.println();
         }
     }
-
 
     static void pattern03(int n){
         for (int i=0;i<n;i++){
@@ -79,5 +78,4 @@ public class Pattern_006_Right_hand_side_of_diamond {
             System.out.println();
         }
     }
-
 }
