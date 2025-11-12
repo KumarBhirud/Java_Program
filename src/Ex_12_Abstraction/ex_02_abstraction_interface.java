@@ -4,7 +4,6 @@ public class ex_02_abstraction_interface {
     static void main(String[] args) {
         alto al=new alto();
         al.drive();
-        al.
     }
 }
 
