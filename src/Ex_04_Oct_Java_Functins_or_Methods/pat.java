@@ -1,4 +1,4 @@
-package Ex_07_11_Oct_Pattern;
+package Ex_04_Oct_Java_Functins_or_Methods;
 
 public class pat {
     static void main(String[] args) {

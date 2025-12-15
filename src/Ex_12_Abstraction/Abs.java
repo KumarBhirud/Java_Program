@@ -15,12 +15,18 @@ abstract class akfather {
     void load10k(){
         System.out.println("Given");
     }
+    abstract void  loan_1lac();
 }
 class ak extends akfather {
 
     @Override
     void loan50k() {
         System.out.println("i am Ak, and i will give 50k loan ");
+    }
+
+    @Override
+    void loan_1lac() {
+        System.out.println("Kb will pay");
     }
 }
 

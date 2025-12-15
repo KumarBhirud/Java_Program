@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 
-public class Lab_218_IQ02 {
+public class Lab218_IQ02 {
 
     static void main(String[] args) {
 
