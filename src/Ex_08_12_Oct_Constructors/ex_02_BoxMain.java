@@ -11,5 +11,6 @@ public class ex_02_BoxMain {
 
         ex_01_Box b3=new ex_01_Box(10);
         System.out.println(b3.volume());
+
     }
 }

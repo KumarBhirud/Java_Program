@@ -12,9 +12,7 @@ public enum ex_03_Env {
    private final String baseUrl;
 
 
-    ex_03_Env(String baseUrl) {
-        this.baseUrl = baseUrl;
-    }
+    ex_03_Env(String baseUrl) {this.baseUrl = baseUrl; }
 
     public String getBaseUrl() {
         return baseUrl;
